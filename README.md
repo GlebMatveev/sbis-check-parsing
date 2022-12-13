@@ -6,10 +6,10 @@ Script for the order list page in the user's personal account ([Mayak](https://m
 Pulls raw data from the database, parses it and shows it on the page.
 
 ### Task<br>
-Find checks in the system.<br>
+Find checks in the system.
 Display a link to the check in the user's personal account.
 
-### Features<br>
+### Features
 - database connecting
 - creation SQL query
 - strings - explode(), substr()
